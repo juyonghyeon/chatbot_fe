@@ -56,7 +56,7 @@ const Header = () => {
       <div className="left">
         <NavLink to="/">
           <MdHome />
-          <span>메인으로</span>
+          <span>AI와 대화</span>
         </NavLink>
         <NavLink
           to="/draw"
